@@ -13,6 +13,6 @@ cd Domaim
 chmod +x Domaim.sh
 ./Domain.sh
 ```
-**Screenshoot**
+**Screenshot**
 
 ![2021-03-30_093240](https://user-images.githubusercontent.com/77072306/112944176-27194e80-913b-11eb-89d2-1897b480e7ae.png)
