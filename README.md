@@ -1,6 +1,6 @@
 ![2021-03-30_091633](https://user-images.githubusercontent.com/77072306/112942392-b5d89c00-9138-11eb-90dd-11b5010121ae.png)
                                               
-**For Discovering domain**
+*It's simple shell to automat discovering domain process.**
 
 * Domain Information
 * Subdomains
