@@ -1,5 +1,5 @@
 # Domaim
-**To Discovering domain**
+**For Discovering domain**
 
 * Domain Information
 * Subdomains
