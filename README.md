@@ -6,9 +6,9 @@
 * Emails
 
 **Installation**
-Some basic Git commands are:
 ```
-git status
-git add
-git commit
+git clone https://github.com/malbana77/Domaim
+cd Domaim
+chmod +x Domaim.sh
+./Domain.sh
 ```
