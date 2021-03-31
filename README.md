@@ -8,9 +8,9 @@
 
 #### Requirements
 1. whois
-    sudo apt-get install whois
+     * sudo apt-get install whois
 2. theHarvester
-    already installed in kali linux or download it and edit the path in shell
+    * already installed in kali linux or download it and edit the path in shell
 
 #### Downloading && Usage
 ```
