@@ -6,6 +6,12 @@
   2. Subdomains
   3. Emails
 
+#### Requirements
+1. whois
+    sudo apt-get install whois
+2. theHarvester
+    already installed in kali linux or download it and edit the path in shell
+
 #### Downloading && Usage
 ```
 git clone https://github.com/malbana77/Domaim
