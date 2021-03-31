@@ -10,8 +10,8 @@
 ```
 git clone https://github.com/malbana77/Domaim
 cd Domaim
-chmod +x Domaim.sh
-./Domain.sh
+chmod +x DOMAIM.sh
+./DOMAIM.sh
 ```
 ### Screenshot
 
